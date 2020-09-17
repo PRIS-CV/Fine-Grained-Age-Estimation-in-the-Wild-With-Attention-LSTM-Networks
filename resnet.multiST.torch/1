@@ -1,0 +1,2 @@
+th main.lua -retrain ft-101-res34-lr01.t7 -nClasses 101
+
